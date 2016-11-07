@@ -4,7 +4,7 @@ Main goal of Criminal Intent app is track and report of minor office crimes made
 
 ##Android key concepts learned
 
-* Activities,Fragments, Layouts, Views
+* Activities ,Fragments, Layouts, Views
 * RecycleView, ViewPager, Dialogs, Toolbar
 * SQLite database
 * Explicit and Implicit Intents
